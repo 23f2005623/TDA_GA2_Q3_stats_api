@@ -1,1 +1,0 @@
-# TDA_GA2_Q3_stats_api
